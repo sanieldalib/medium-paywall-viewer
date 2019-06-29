@@ -10,5 +10,4 @@ This is a chrome extension which allows you to automatically bypass the Medium p
 
 ## Tech
 
-This extension is written is vanilla javascript, HTML, and CSS. No dependencies are used or required.
-A
+This extension is written is Vanilla JavaScript, HTML, and CSS. No dependencies are used or required.
